@@ -16,6 +16,7 @@ Each image on the disk is at 480x270 resolution to save space and speed up data 
 * Install Imagemagick, GD (for PHP)
 * Install Imagemagick (Linux)
 * Use PHP 7.0 or newest
+* Run libs/run.sh script to download and build libraries
 
 ## PHP Interpreter or HHVM?
 
